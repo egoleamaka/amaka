@@ -112,7 +112,7 @@ div a{
     font-size: 2.5em;
     text-align: center;
     background: conic-gradient(blue 40%, fuchsia 40%, fuchsia 70%, green 70%);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 div{
     background-color: black;
